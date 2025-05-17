@@ -62,7 +62,6 @@ weather_project/
 │
 ├── weather_forecast_sqlite.py   ← script หลัก
 ├── weather.db                   ← ฐานข้อมูล SQLite
-├── analysis_functions.py        ← ฟังก์ชันวิเคราะห์แยกไฟล์
 └── README.md                    ← รายงานโปรเจกต์
 ```
 
